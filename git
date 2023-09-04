@@ -51,4 +51,3 @@ print("   Su proximo tuno fue registrado con exito...👨🏽‍⚕️🙌💊")
 proximoTurno (fechaEmision,doctor,clinica, nombre, documento, mutual, turno)
 
 
-
